@@ -14,12 +14,12 @@ const Home = () => {
     <Layout>
       <Section grid>
         <Hero />
-        <BgAnimation />
+        {/* <BgAnimation /> */}
       </Section>
       <Abstract />
       <Background/>
       <Method/>
-      <Results/>
+      <Results/> 
       <ContactUs/>
     </Layout>
   );

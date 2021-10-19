@@ -12,7 +12,7 @@ const people = [
   'position': 'Researcher & Student',
   'school': 'Academies of Loudoun',
   'location': 'United States of America',
-  'image': 'https://astero.vercel.app/images/profile/d_writer.png',
+  'image': '/images/writer2.JPEG',
   'id': 0
   },
   {
@@ -20,7 +20,7 @@ const people = [
   'position': 'Research Mentor',
   'school': 'Academies of Loudoun',
   'location': 'United States of America',
-  'image': 'https://astero.vercel.app/images/profile/d_writer.png',
+  'image': '/images/writer.JPEG',
   'id': 1
   }
 ];
