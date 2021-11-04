@@ -20,7 +20,7 @@ const Home = () => {
       <Abstract />
       <Background/>
       <Method/>
-      <Results/>
+      <Results/> 
       <ContactUs/>
       <Progress/>
     </Layout>
