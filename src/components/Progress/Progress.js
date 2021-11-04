@@ -4,8 +4,8 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { GridContainer, BlogCard, List, ListContainer, ListItem, ListParagraph, ListTitle, Box, Paragraph, Img, Img2, Caption} from './ProgressStyles';
 import { research_meetings } from '../../constants/progress'
 
-const Meetings = () =>  (
-  <Section nopadding id="meetings">
+const Progress = () =>  (
+  <Section nopadding id="progress">
     <SectionDivider/>
     <br />
     <SectionTitle>
@@ -17,7 +17,7 @@ const Meetings = () =>  (
         return(
           <Box>
             <Paragraph>
-              <strong style={{fontSize: "20px;"}}>{p.title} {p.id}</strong><br />
+              <strong style={{fontSize: "20px;"}}>{p.title}</strong><br />
               <Caption>
                 progress report - {p.date}
               </Caption>
@@ -32,4 +32,4 @@ const Meetings = () =>  (
     </Section>
 );
 
-export default Meetings;
+export default Progress;

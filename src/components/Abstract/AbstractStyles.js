@@ -1,5 +1,11 @@
 import styled from 'styled-components';
 
+export const Vid = styled.iframe`
+  width:80%;
+  height:500;
+  margin-left: 90px;
+`
+
 export const Img = styled.img`
   width:100%;
   height:100%;
