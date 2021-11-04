@@ -9,12 +9,12 @@ const Background = () =>  (
       <SectionTitle main>Background</SectionTitle>
       <Box>
         <Paragraph>
-          <strong style={{fontSize: "20px;"}}>Graphs & Whatnot</strong><br /><br />
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          <strong style={{fontSize: "20px;"}}>Graphs</strong><br /><br />
+          "A graph is a collection of nodes/vertices and edges"
         </Paragraph>
         <Paragraph>
-          <strong style={{fontSize: "20px;"}}>More Graphs</strong><br /><br />
-          "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+          <strong style={{fontSize: "20px;"}}>Graphs Pt.2</strong><br /><br />
+          "Graphs have numbers on them that can represent the “cost” of going somewhere called a “weight”. This can represent distance, transportation cost etc."
           <br />
           <br />
           <br />
@@ -23,7 +23,7 @@ const Background = () =>  (
           <br />
           <br />
           <br />
-          "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+          "Pathfinding algorithms are a subset of classical combinatorial optimization algorithms that generally deduce the optimal path connecting two nodes on a graph. Many applications for pathfinding exist including the evident applications in mapping and satellite or gps routing systems, however many nonintuitive uses also exit. Examples include parsing using stochastic grammar in natural language processing, solving a rubix cube, and the convex hull problem. Nodes on a graph can represent states of a system or game and edges can represent moving or transitioning between these states. A problem can simply be adapted to fit a graph data structure with optimal events being the starting and ending nodes and the shortest path representing the optimal strategy to reach one event from another. A* search is a widely used algorithm for such problems due to it’s speed (depending on the heuristic function) and efficiency. "
           <br />
           <br />
           <br />

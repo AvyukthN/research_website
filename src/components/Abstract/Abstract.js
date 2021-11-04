@@ -10,7 +10,7 @@ const Abstract = () => (
     <SectionTitle main>Abstract</SectionTitle>
     <Box>
       <Paragraph>
-        <strong style={{fontSize: "20px;"}}>Pathfinding & Stuff</strong><br /><br />
+        <strong style={{fontSize: "20px;"}}>Quantum Pathfinding</strong><br /><br />
         This research investigates a quantum improvement on the A* pathfinding algorithm. A* pathfinding uses heuristics to estimate the distance of any node on a graph to the destination node on a graph. Current heuristics like euclididan distance simply estiamte the exact distance between any node and the destination node which leads to severe underestimation. While A* search is guaranteed to find a shortest path in using such a heuristics it runs for a much longer time and is extremely memory intensive since it has to consdier many nodes before finding the most optimal ones.
         <br />
         <br />

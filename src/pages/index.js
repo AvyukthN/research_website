@@ -6,6 +6,7 @@ import Background from '../components/Background/Background';
 import Method from '../components/Method/Method';
 import Results from '../components/Results/Results'
 import ContactUs from '../components/ContactUs/ContactUs';
+import Progress from '../components/Progress/Progress';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
 
@@ -21,6 +22,7 @@ const Home = () => {
       <Method/>
       <Results/>
       <ContactUs/>
+      <Progress/>
     </Layout>
   );
 };

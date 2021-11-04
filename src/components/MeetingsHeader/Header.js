@@ -17,6 +17,43 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
+        <Link href="/#abstract">
+          <NavLink>Abstract</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="/#background">
+          <NavLink>Background</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="/#method">
+          <NavLink>Method</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="/#results">
+          <NavLink>Results</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="/#contactus">
+          <NavLink>Contact Us</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="/#meetings">
+          <NavLink>Meetings</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="/#progress">
+          <NavLink>Meetings</NavLink>
+        </Link>
+      </li>
+    </Div2>
+    {/* <Div2>
+      <li>
         <Link href="#abstract">
           <NavLink>Abstract</NavLink>
         </Link>
@@ -41,12 +78,7 @@ const Header = () =>  (
           <NavLink>Contact Us</NavLink>
         </Link>
       </li>
-      <li>
-        <Link href="/meetings">
-          <NavLink>Meetings</NavLink>
-        </Link>
-      </li>
-    </Div2>
+    </Div2> */}
     {/* <Div3>
       <SocialIcons href="https://github.com/AvyukthN/research">
         <AiFillGithub size="3rem"/>

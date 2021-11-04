@@ -9,7 +9,7 @@ const Results = () => (
         <SectionTitle main>Results</SectionTitle>
         <Box>
             <Paragraph>
-                <SubTitle>Ur Mom</SubTitle>
+                <SubTitle>NYC GraphML Dataset</SubTitle>
                 <br />
                 <br />
                 <br />
