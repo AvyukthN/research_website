@@ -5,9 +5,9 @@ export const research_meetings = [{
     id: 0
 },
 {
-    title: 'Report',
-    date: '12/29/2004',
-    summary: 'SMALL DESCRIPTION OF PROGRESS',
+    title: 'Markov Chain Implementation',
+    date: '11/20/21',
+    summary: 'Implemented a general representation for the markov chain in order to use the qastar algorithm on an SSP problem.',
     id: 1
 },
 {
